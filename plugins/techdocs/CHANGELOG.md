@@ -1,5 +1,27 @@
 # @backstage/plugin-techdocs
 
+## 1.10.7
+
+### Patch Changes
+
+- 8ac9ce5: Fixed a bug with the TechDocsReaderPageProvider not re-rendering when setShadowDom is called, meaning that the useShadowDom hooks were inconsistent. This issue caused the TextSize addon changes not to reapply during navigation.
+- Updated dependencies
+  - @backstage/plugin-techdocs-react@1.2.6
+  - @backstage/catalog-model@1.5.0
+  - @backstage/config@1.2.0
+  - @backstage/core-compat-api@0.2.6
+  - @backstage/core-components@0.14.8
+  - @backstage/core-plugin-api@1.9.3
+  - @backstage/errors@1.2.4
+  - @backstage/frontend-plugin-api@0.6.6
+  - @backstage/integration@1.12.0
+  - @backstage/integration-react@1.1.28
+  - @backstage/theme@0.5.6
+  - @backstage/plugin-auth-react@0.1.3
+  - @backstage/plugin-catalog-react@1.12.1
+  - @backstage/plugin-search-common@1.2.12
+  - @backstage/plugin-search-react@1.7.12
+
 ## 1.10.6
 
 ### Patch Changes

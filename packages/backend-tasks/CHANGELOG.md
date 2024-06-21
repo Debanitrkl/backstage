@@ -1,5 +1,16 @@
 # @backstage/backend-tasks
 
+## 0.5.26
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.23.2
+  - @backstage/backend-plugin-api@0.6.21
+  - @backstage/config@1.2.0
+  - @backstage/errors@1.2.4
+  - @backstage/types@1.1.1
+
 ## 0.5.24
 
 ### Patch Changes

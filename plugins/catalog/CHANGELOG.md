@@ -1,5 +1,27 @@
 # @backstage/plugin-catalog
 
+## 1.21.1
+
+### Patch Changes
+
+- d133eaa: Added small notes to AboutCard to discourage customizability PRs
+- Updated dependencies
+  - @backstage/catalog-client@1.6.5
+  - @backstage/catalog-model@1.5.0
+  - @backstage/core-compat-api@0.2.6
+  - @backstage/core-components@0.14.8
+  - @backstage/core-plugin-api@1.9.3
+  - @backstage/errors@1.2.4
+  - @backstage/frontend-plugin-api@0.6.6
+  - @backstage/integration-react@1.1.28
+  - @backstage/types@1.1.1
+  - @backstage/plugin-catalog-common@1.0.24
+  - @backstage/plugin-catalog-react@1.12.1
+  - @backstage/plugin-permission-react@0.4.23
+  - @backstage/plugin-scaffolder-common@1.5.3
+  - @backstage/plugin-search-common@1.2.12
+  - @backstage/plugin-search-react@1.7.12
+
 ## 1.21.0
 
 ### Minor Changes

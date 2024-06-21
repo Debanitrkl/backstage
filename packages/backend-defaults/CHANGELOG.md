@@ -1,5 +1,26 @@
 # @backstage/backend-defaults
 
+## 0.3.3
+
+### Patch Changes
+
+- cb14a05: Repack the package to fix issues with typescript with named exports
+- Updated dependencies
+  - @backstage/backend-common@0.23.2
+  - @backstage/backend-app-api@0.7.9
+  - @backstage/backend-dev-utils@0.1.4
+  - @backstage/backend-plugin-api@0.6.21
+  - @backstage/cli-common@0.1.14
+  - @backstage/config@1.2.0
+  - @backstage/config-loader@1.8.1
+  - @backstage/errors@1.2.4
+  - @backstage/integration@1.12.0
+  - @backstage/integration-aws-node@0.1.12
+  - @backstage/types@1.1.1
+  - @backstage/plugin-auth-node@0.4.16
+  - @backstage/plugin-events-node@0.3.7
+  - @backstage/plugin-permission-node@0.7.32
+
 ## 0.3.0
 
 ### Minor Changes
